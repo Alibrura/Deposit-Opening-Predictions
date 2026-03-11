@@ -6,7 +6,6 @@
 [![Pandas](https://img.shields.io/badge/pandas-2.2.1-green)](https://pandas.pydata.org)  
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-yellow)](https://scikit-learn.org)  
 [![Optuna](https://img.shields.io/badge/Optuna-3.0%2B-blueviolet)](https://optuna.org)  
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)  
 
 ---
 
